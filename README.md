@@ -1,6 +1,6 @@
 # Foundie
 
-Foundie is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum ipsum tristique, pulvinar libero id, semper nisi. Fusce porttitor ante et facilisis congue. Aenean lorem orci, aliquet vitae sapien vitae, imperdiet luctus ligula. Duis bibendum, quam sit amet tempor tempor, tellus diam molestie mauris, nec scelerisque ligula mauris ut purus. Morbi placerat tincidunt nisl, at placerat arcu bibendum at. Quisque sollicitudin leo metus, sit amet fringilla tellus lacinia in. In pretium felis mauris.
+Foundie is here to address the problem of low self-confidence that many people, especially women, often experience regarding their appearance. Based on data from a Watson survey, 50% of Asian women feel insecure about their appearance. While many women turn to makeup to improve their appearance, in-depth interviews conducted by our development team revealed that they still struggle to determine the makeup style that best suits their facial features
 
 # Current Features
 
@@ -81,11 +81,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ullamcorper fac
 
 #### Skin Tone
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ullamcorper facilisis augue, ac mattis justo. Fusce porttitor hendrerit eros, vel accumsan purus ultricies et. Curabitur eget dolor quis augue scelerisque pulvinar non sed nunc. Vestibulum molestie eleifend purus a fermentum. Vestibulum tincidunt urna eget egestas volutpat. Ut porta vel orci eget suscipit. Suspendisse vel libero id nulla bibendum maximus vitae et urna. Integer consectetur nibh id lorem rutrum suscipit. In hac habitasse platea dictumst. Phasellus non sapien vitae libero pretium molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut quis feugiat velit. Aliquam tempus libero lorem, at posuere orci semper eget. Morbi vulputate ligula libero, ut pulvinar dolor pharetra vitae. Nullam facilisis euismod dui, ut accumsan nisi bibendum eleifend.
+Skin Tone Classification provides facial skin tone analysis using image processing technology to accurately detect and classify different types of skin tones. The program analyzes user images to identify skin tones and provide appropriate beauty product recommendations.
 
 #### Color analysis
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ullamcorper facilisis augue, ac mattis justo. Fusce porttitor hendrerit eros, vel accumsan purus ultricies et. Curabitur eget dolor quis augue scelerisque pulvinar non sed nunc. Vestibulum molestie eleifend purus a fermentum. Vestibulum tincidunt urna eget egestas volutpat. Ut porta vel orci eget suscipit. Suspendisse vel libero id nulla bibendum maximus vitae et urna. Integer consectetur nibh id lorem rutrum suscipit. In hac habitasse platea dictumst. Phasellus non sapien vitae libero pretium molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut quis feugiat velit. Aliquam tempus libero lorem, at posuere orci semper eget. Morbi vulputate ligula libero, ut pulvinar dolor pharetra vitae. Nullam facilisis euismod dui, ut accumsan nisi bibendum eleifend.
+Color Analysis Offers color analysis to determine the color palette that best matches the user's skin, hair, and eyes. Foundie helps users find the best color combination to enhance their look.
 
 ### Product Recommendation System
 
