@@ -12,23 +12,23 @@ This was the early features that this applications have.
 
 2. Face Classification
 
-   <img src="/profile/resource/placeholder.png" height="500">
+   <img src="./resource/placeholder.png" height="500">
 
 3. Skin Tone
 
-   <img src="/profile/resource/placeholder.png" height="500">
+   <img src="./resource/placeholder.png" height="500">
 
 4. Color analysis
 
-   <img src="/profile/resource/placeholder.png" height="500">
+   <img src="./resource/placeholder.png" height="500">
 
 5. Product Comparison
 
-   <img src="/profile/resource/placeholder.png" height="500">
+   <img src="./resource/placeholder.png" height="500">
 
 6. community
 
-   <img src="/profile/resource/placeholder.png" height="500">
+   <img src="./resource/placeholder.png" height="500">
 
 # Technical Details
 
@@ -37,7 +37,7 @@ This was the early features that this applications have.
 The mobile application is made starting with UI/UX designs and a little UX research, then implementing the design results using native Kotlin Android by utilizing supporting libraries such as Retrofit to interact with APIs, ViewModel to maintain stable live data, and Firebase Google Authentication to process user authentication.
 
 **Flow Android**
-![Flow Android](/profile/resource/flow_aplikasi_android.png)
+![Flow Android](./resource/flow_aplikasi_android.png)
 
 ## Foundie Cloud Computing Platform
 
@@ -47,11 +47,11 @@ We’ve developed a robust backend application using a microservices architectur
 
 **Cloud Architecture**
 
-![Cloud Architecture](/profile/resource/cloud_architecture_v2.png)
+![Cloud Architecture](./resource/cloud_architecture_v2.png)
 
 **Database Structure**
 
-![Database Structure](/profile/resource/erd.png)
+![Database Structure](./resource/erd.png)
 
 **List Repostory for Cloud Computing**
 
