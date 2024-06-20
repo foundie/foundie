@@ -8,7 +8,7 @@ This was the early features that this applications have.
 
 1. Authentication
 
-   <img src="/profile/resource/placeholder.png" height="500">
+   <img src="./resource/placeholder.png" height="500">
 
 2. Face Classification
 
